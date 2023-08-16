@@ -1,0 +1,306 @@
+/* ========== Bangladesh Flug Start Here =========== */
+.bdflug{
+    background: green;
+    width: 320px;
+    height: 200px;
+    margin: 0 auto;
+    position: relative;
+}
+.circle{
+    background: red;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    border-radius: 100px;
+}
+.bash{
+    background: rgb(23, 240, 23);
+    width: 10px;
+    height: 500px;
+    border-radius: 0px;
+}
+/* ========== Bangladesh Flug End Here =========== */
+/* <!-- ============== Canada Flug Start Here ============== --> */
+.canada{
+    background: gray;
+    width: 320px;
+    height: 200px;
+    margin-top: 400px;
+    position: relative;
+}
+.cared1{
+    background: red;
+    height: 200px;
+    width: 100px;
+}
+.cared2{
+    background: red;
+    height: 200px;
+    width: 100px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.cawhite{
+    background: white;
+    height: 200px;
+    width: 120px;
+    position: absolute;
+    right: 50%;
+    top: 0;
+    transform: translate(50%);
+}
+.cleaf{
+    position: absolute;
+    width: 120px;
+    height: 100px;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%);
+
+}
+/* <!-- ============== Canada Flug End Here ============== --> */
+/* <!-- ============== Uganda Flug Start Here ============== --> */
+.uganda{
+    border: 2px solid red;
+    width: 320px;
+    height: 200px;
+    float: left;
+    position: relative;
+}
+.ublack1{
+    width: 320px;
+    height: 33.33px;
+    background: black;
+}
+.uyellow1{
+    width: 320px;
+    height: 33.33px;
+    background: yellow;
+}
+.ured1{
+    width: 320px;
+    height: 33.33px;
+    background: red;
+}
+.ublack{
+    width: 320px;
+    height: 33.33px;
+    background: black;
+}
+.uyellow{
+    width: 320px;
+    height: 33.33px;
+    background: yellow;
+}
+.ured{
+    width: 320px;
+    height: 33.33px;
+    background: red;
+}
+.uimg{
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 1;
+}   
+.ucircle{
+    height: 110px;
+    width: 110px;
+    background: white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 50%;
+}
+/* <!-- ============== Uganda Flug End Here ============== --> */
+/* ====== argentina flag start here ====== */
+.argentina{
+    height: 200px;
+    width: 320px;
+    position: relative;
+    top: 300px;
+}
+.skyblue{
+    width: 320px;
+    height: 66.66px;
+    background: skyblue;
+    position: absolute;
+}
+.skyblue2{
+    width: 320px;
+    height: 66.66px;
+    background: skyblue;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.awhite{
+    background: white;
+    width: 320px;
+    height: 66.66px;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translate(0%,-50%);
+}
+.arimg{
+    position: absolute;
+    width: 60px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+/* ======= portogal flag start ======= */
+#portogal{
+    width: 320px;
+    height: 200px;
+    position: relative;
+    top: 320px;
+}
+.pgreen{
+    width: 150px;
+    background: green;
+    height: 200px;
+    position: absolute;
+    left: 0;
+}
+.pred{
+    width: 170px;
+    height: 200px;
+    background: rgb(255, 38, 38);
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.pimg{
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+/* ======= portogal flag end ======= */
+/* ======= America flag start here ======= */
+#america{
+    width: 320px;
+    height: 195px;
+    position: relative;
+    top: 340px;
+}
+.red1{
+    width: 320px;
+    height: 15px;
+    background: rgb(255, 0, 0);
+    top: 0px;
+    position: absolute;
+}
+.red2{
+    width: 320px;
+    height: 15px;
+    background: white;
+    position: absolute;
+    top: 15px;
+}
+.red3{
+    width: 320px;
+    height: 15px;
+    background: red;
+    position: absolute;
+    top: 30px;
+}
+.red4{
+    width: 320px;
+    height: 15px;
+    background: white;
+    position: absolute;
+    top: 45px;
+}
+.red5{
+    width: 320px;
+    height: 15px;
+    background: red;
+    position: absolute;
+    top: 60px;
+    
+}
+.red6{
+    width: 320px;
+    height: 15px;
+    background: white;
+    position: absolute;
+    top: 75px;
+}
+.red7{
+    width: 320px;
+    height: 15px;
+    background: red;
+    position: absolute;
+    top: 90px;
+}
+.red7{
+    width: 320px;
+    height: 15px;
+    background: white;
+    position: absolute;
+    top: 105px;
+}
+.red8{
+    width: 320px;
+    height: 15px;
+    background: red;
+    position: absolute;
+    top: 120px;
+}
+.red9{
+    width: 320px;
+    height: 15px;
+    background: white;
+    position: absolute;
+    top: 135px;
+}
+.red10{
+    width: 320px;
+    height: 15px;
+    background: red;
+    position: absolute;
+    top: 150px;
+}
+.red11{
+    width: 320px;
+    height: 15px;
+    background: white;
+    position: absolute;
+    top: 165px;
+}
+.red12{
+    width: 320px;
+    height: 15px;
+    background: red;
+    position: absolute;
+    top: 180px;
+}
+.red13{
+    width: 320px;
+    height: 15px;
+    background: red;
+    position: absolute;
+    top: 195px;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.aflag{
+    position: absolute;
+    height: 105px;
+    width: 100px;
+}
+
+/* ======= America flag end here ======= */
